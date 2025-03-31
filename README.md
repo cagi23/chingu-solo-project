@@ -21,3 +21,6 @@ The paltform will contains the following functionalities:
 In the future can be extended the functionalities:
 - role choices: client that manages the contest
 - TODO
+
+The first step is to create the unique feature of this platform:
+The developer level system.
