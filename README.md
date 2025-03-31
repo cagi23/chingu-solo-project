@@ -24,3 +24,34 @@ In the future can be extended the functionalities:
 
 The first step is to create the unique feature of this platform:
 The developer level system.
+
+Define levels based on a point system where developers earn XP (experience points) based on their activities and contest.
+
+1️⃣ Example Developer Levels
+Level Title XP Range
+🟢 1 Junior Developer 0 - 999
+🔵 2 Intermediate Dev 1,000 - 4,999
+🟣 3 Senior Developer 5,000 - 14,999
+🟠 4 Expert Developer 15,000 - 29,999
+🔴 5 Elite Developer 30,000+
+2️⃣ How to Earn XP?
+XP can be gained from multiple activities:
+
+Coding Contributions
+
++50 XP for a merged PR
++10 XP for a commit in an active repo
++100 XP for solving a high-difficulty bug
+Code Reviews
+
++20 XP for reviewing a PR
++50 XP if the review is approved by other senior developers
+
+XP earned by coding challenge platform
++50 contest api
++150 batch
++50 batch
+
++30 XP for answering a question on Stack Overflow +40 XP for publishing a technical blog post +100 XP for giving a conference talk Challenges & Certifications
+
++200 XP for completing a coding challenge +500 XP for passing a professional certification (AWS, Google, etc.)
