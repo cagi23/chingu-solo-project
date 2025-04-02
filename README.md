@@ -27,15 +27,15 @@ The developer level system.
 
 Define levels based on a point system where developers earn XP (experience points) based on their activities and contest.
 
-1️⃣ Example Developer Levels
-Level Title XP Range
-🟢 1 Junior Developer 0 - 999
-🔵 2 Intermediate Dev 1,000 - 4,999
-🟣 3 Senior Developer 5,000 - 14,999
-🟠 4 Expert Developer 15,000 - 29,999
-🔴 5 Elite Developer 30,000+
-2️⃣ How to Earn XP?
-XP can be gained from multiple activities:
+1️⃣ Example Developer Levels<br>
+Level Title XP Range<br>
+🟢 1 Junior Developer 0 - 999<br>
+🔵 2 Intermediate Dev 1,000 - 4,999<br>
+🟣 3 Senior Developer 5,000 - 14,999<br>
+🟠 4 Expert Developer 15,000 - 29,999<br>
+🔴 5 Elite Developer 30,000+<br>
+2️⃣ How to Earn XP?<br>
+XP can be gained from multiple activities:<br>
 
 Coding Contributions
 
