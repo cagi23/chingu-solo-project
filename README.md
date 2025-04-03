@@ -57,8 +57,12 @@ XP earned by coding challenge platform
 +200 XP for completing a coding challenge +500 XP for passing a professional certification (AWS, Google, etc.)
 
 
-Level
-id_level
+Level<br>
+id_level<br>
+level_name<br>
+min_xp_requirement<br>
+max_xp_requirement<br>
+
 
 
 
