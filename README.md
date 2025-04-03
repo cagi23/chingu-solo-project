@@ -66,4 +66,10 @@ max_xp_requirement<br>
 
 
 
+Tool:
+https://dbdiagram.io/
+yEd
+Pencil
+
+
 
