@@ -55,3 +55,11 @@ XP earned by coding challenge platform
 +30 XP for answering a question on Stack Overflow +40 XP for publishing a technical blog post +100 XP for giving a conference talk Challenges & Certifications
 
 +200 XP for completing a coding challenge +500 XP for passing a professional certification (AWS, Google, etc.)
+
+
+Level
+id_level
+
+
+
+
